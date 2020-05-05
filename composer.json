@@ -1,0 +1,24 @@
+{
+  "name": "prashantgadhvi/phonenumbervalidation",
+  "description": "Phone Number Validation",
+  "authors": [
+    {
+      "name": "Prashant Gadhvi",
+      "email": "prashantgadhvi111@gmail.com"
+    }
+  ],
+  "config" : {
+    "preferred-install" : "dist"
+  },
+  "require": {
+    "php": "7.4.3"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "6.2"
+  },
+  "autoload": {
+    "psr-0": {
+      "PhoneValidation\\": "app"
+    }
+  }
+}

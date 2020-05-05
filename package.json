@@ -1,0 +1,10 @@
+{
+	"name": "prashantgadhvi/phonenumbervalidation",
+	"description": "Phone Number Validation",
+	"author": "Prashant Gadhvi <prashantgadhvi111@gmail.com>",
+	"private": true,
+	"repository": {
+		"type": "git"
+	},
+	"devDependencies": {}
+}

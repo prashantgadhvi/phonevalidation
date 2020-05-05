@@ -1,0 +1,56 @@
+.invalid_extension{
+  color: #ff0000;
+}
+
+.numberdisplay{
+	vertical-align: top;
+	width: 25%;
+}
+
+#phonenumbers{
+	width: 100%;
+}
+
+#valid{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#valid td, #valid th{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#valid td:nth-child(even){
+	background-color: #f2f2f2;
+}
+
+#valid th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #008000;
+    color: white;
+}
+
+#invalid{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+#invalid  td, #invalid  th{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#invalid  td:nth-child(even){
+	background-color: #f2f2f2;
+}
+
+#invalid  th{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #ff0000;
+    color: white;
+}
